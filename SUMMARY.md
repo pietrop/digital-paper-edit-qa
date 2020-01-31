@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Digital Paper Edit - QA](README.md)
+
+## Projects
+
+* [Projects](projects/projects.md)
 
