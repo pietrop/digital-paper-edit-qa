@@ -42,6 +42,17 @@ When you raise an issue please indicate at a minimum the
 * Digital Paper Edit version \(eg `1.0.3-alpha.9`\)
 * The number of the QA point being tested that it's failing, if applicable 
 
-  
+## Items to test
+
+There are 5 main parts for QA testing
+
+1. STT Settings
+2. Projects
+3. Workspace
+4. Transcripts
+5. Paper Edit
+6. Export \(eg EDL\)
+
+see each section for more details.  
 
 
