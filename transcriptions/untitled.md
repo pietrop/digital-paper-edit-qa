@@ -12,3 +12,5 @@ edit a transcription while another transcription is being processed
 
 
 
+react-transcript-editor, correct a file \(eg 20 min\) and see if crashes electron 
+
