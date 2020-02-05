@@ -10,6 +10,8 @@ _The assumption underlying this doc is that anyone, even without technical skill
 
 Digital Paper Edit it's a project to make working with audio and video interviews easier and faster. Please see project repository the Github [README](https://github.com/pietrop/react-transcript-editor/blob/master/README.md) page, for an overview of its architecture and how it works.
 
+See [user manual](https://autoedit.gitbook.io/digital-paper-edit-user-manual/) along side QA notes for visual representation of each state.
+
 ## Where to test
 
 The app can be tested by downloading a release from the release section of the electron repository [https://github.com/pietrop/digital-paper-edit-electron/releases](https://github.com/pietrop/digital-paper-edit-electron/releases)  
@@ -18,7 +20,7 @@ Alternatively for deploying the app to the latest version see the deployment ins
 
 ## Where to log bugs:
 
-If you find any bugs or issues, please [open an issue in Github](https://github.com/pietrop/react-transcript-editor/issues/new?template=bug_report.md) label it as 'QA Testing' and assign it to [@pietrop](https://github.com/pietrop).
+If you find any bugs or issues, please [open an issue in Github](https://github.com/pietrop/react-transcript-editor/issues/new?template=bug_report.md) label it as 'QA Testing' and assign it to [@pietrop](https://github.com/pietrop). Make sure to mention the version of the app it was first noticed in.
 
 If it's connect to one or more of the QA steps listed below make a note of the corresponding number.
 

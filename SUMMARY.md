@@ -2,7 +2,7 @@
 
 * [Digital Paper Edit - QA](README.md)
 
-## Projects
+## Launching app
 
-* [Projects](projects/projects.md)
+* [Untitled](launching-app/untitled.md)
 
