@@ -16,7 +16,7 @@
 
 ## Transcriptions
 
-* [Untitled](transcriptions/untitled.md)
+* [transcriptions](transcriptions/untitled.md)
 
 ## Paper Edits
 
